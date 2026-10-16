@@ -5,7 +5,7 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 
 # ====== CHANGE THIS to your exact logged-in email ======
-EMAIL = "your-email@example.com"
+EMAIL = "23f3002833@ds.study.iitm.ac.in"
 # =======================================================
 
 ALLOWED_ORIGIN = "https://dash-470s77.example.com"
